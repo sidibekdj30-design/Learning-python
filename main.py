@@ -1,0 +1,6 @@
+print ("hello world")
+print ("bonjour, je commence python")
+print (2 + 3)
+print("Bonjour!")
+print("J'apprends python.")
+print("C'est pas si difficile !")
